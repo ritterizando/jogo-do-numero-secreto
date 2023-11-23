@@ -12,7 +12,7 @@ e rapido sera o programa em que estiver trabalhando.
 //numero for sorteado, ele vai ser guardado nesta variavel
 
 let listaDeNumeros = [];
-let numeroLimite = 100;
+let numeroLimite = 80;
 let numeroSecreto = gerarNumeroSecreto();
 let tentativas = 1;
 
