@@ -13,5 +13,5 @@
 ## Time
 
 <div>
-<a href="https://www.instagram.com/arthuritter_/"><img width="20vh height="25pvh" style="text-align: center;" src="https://uploaddeimagens.com.br/imagens/Z0BPm3w" alt="Foto de Arthur" /></a>
+<a href="https://www.instagram.com/arthuritter_/"><img width="20vh height="25pvh" src="https://uploaddeimagens.com.br/imagens/Z0BPm3w" alt="Foto de Arthur" /></a>
 </div>
